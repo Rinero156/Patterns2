@@ -1,1 +1,1 @@
-# Patterns Testing Mode
+# Patterns Testing Mode [![Build status](https://ci.appveyor.com/api/projects/status/ayjl1t6xkuibjeae?svg=true)](https://ci.appveyor.com/project/Rinero156/patterns2)
